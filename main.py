@@ -29,8 +29,7 @@ def main():
             print("Bye 👋")
             break
 
-        else:
-            print("❌ Wrong option!")
+
 
 if __name__ == "__main__":
     main()
