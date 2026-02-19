@@ -2,7 +2,8 @@
 
 This is a simple console-based Python application for adding, viewing, and deleting tasks with saving data to a file.
 
-## Features
+## Main Features
+
 - Add tasks
 - View task list
 - Delete tasks
